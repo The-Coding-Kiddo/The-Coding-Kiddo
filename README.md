@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @The-Coding-Kiddo My real name is Abduaziz 
-- 👀 I’m interested in  in creating softwares that ease humans work even just a little
-- 🌱 I’m currently learning Fullstack Web development 
-- 💞️ I’m looking to collaborate on Software creation projects
-- 📫 How to reach me ...  WHATSAPP +905364812580
+Makram Will prepare the Software Design Document , (try to make it one page)
+Everybody upload your projects here
+  Ali
+  Mohamed Osman
+  Ibrahim
+  Hanja
+We will prepare for the presentation on thursday morning 2 people will present
