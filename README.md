@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome!
 
-![image](https://github.com/user-attachments/assets/0534f2fc-a3dc-45e6-a6b3-def0d48d535b)
+![banner](https://github.com/user-attachments/assets/0534f2fc-a3dc-45e6-a6b3-def0d48d535b)
 
 
 I'm Abduaziz Ali Osman, a Full-Stack Developer with a passion for crafting web applications that are both high-performance and scalable. Whether it's front-end design or back-end logic, I love getting into the details and solving real-world challenges with code.
