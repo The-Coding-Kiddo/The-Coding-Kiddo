@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome!
 
-![banner](https://github.com/user-attachments/assets/d6c409ec-7842-4ec5-9adc-c7c67c76ee84)
+![banner][(https://github.com/user-attachments/assets/d6c409ec-7842-4ec5-9adc-c7c67c76ee84)](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 
 
 
@@ -54,6 +54,9 @@ I'm Abduaziz Ali Osman, a Full-Stack Developer with a passion for crafting web a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abduaziz-ali-osman-409801167/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duffali16@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername](https://www.linkedin.com/in/abduaziz-ali-osman-409801167/))
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Abduaziz--Ali-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@Abduaziz-Ali)
+
+
 
 ---
 
