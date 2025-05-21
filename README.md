@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome!
 
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQF1C4wYBnjCoQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728514369281?e=1735776000&v=beta&t=b6aHUIFYINQTGyQh7XFe_PNVKd5oq8Dae28u66qan3g)
+[![Banner](https://media.licdn.com/dms/image/v2/D4D16AQF1C4wYBnjCoQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728514369281?e=1735776000&v=beta&t=b6aHUIFYINQTGyQh7XFe_PNVKd5oq8Dae28u66qan3g)](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 I'm Abduaziz Ali Osman, a Full-Stack Developer with a passion for crafting web applications that are both high-performance and scalable. Whether it's front-end design or back-end logic, I love getting into the details and solving real-world challenges with code.
 
