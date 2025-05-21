@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome!
 
-![banner]![image](https://github.com/user-attachments/assets/d6c409ec-7842-4ec5-9adc-c7c67c76ee84)
+![banner](https://github.com/user-attachments/assets/d6c409ec-7842-4ec5-9adc-c7c67c76ee84)
 
 
 
