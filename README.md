@@ -32,7 +32,6 @@ I'm Abduaziz Ali Osman, a Full-Stack Developer with a passion for crafting web a
 
 
 ---
-<img src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/snake.svg" alt="Snake animation" />
 ###
 
 <div align="center">
