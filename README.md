@@ -87,7 +87,6 @@ I'm Abduaziz Ali Osman — a Software & Cloud Engineer who builds scalable, high
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Coding-Kiddo&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=The-Coding-Kiddo&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
