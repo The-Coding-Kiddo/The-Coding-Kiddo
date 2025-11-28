@@ -5,7 +5,7 @@
 
 
 
-I'm Abduaziz Ali Osman, a Full-Stack Developer with a passion for crafting web applications that are both high-performance and scalable. Whether it's front-end design or back-end logic, I love getting into the details and solving real-world challenges with code.
+I'm Abduaziz Ali Osman — a Software & Cloud Engineer who builds scalable, high-performance applications end-to-end. I work across modern stacks, from frontend UX to backend infrastructure, and I love solving real-world problems with clean, efficient systems.
 
 - 🌱 **Currently exploring**: Adding more to my Next.js, React, Python, and Node.js skills.
 - 💼 **Open to collaborations**: Let's build something awesome together!
